@@ -1,2 +1,2 @@
-# Other
-Research Projects
+# Research Projects
+All Research Projects
